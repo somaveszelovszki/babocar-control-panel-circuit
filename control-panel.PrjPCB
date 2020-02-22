@@ -395,63 +395,63 @@ GenerateClassCluster=0
 DocumentUniqueId=GENTIUBR
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for controlPanel\BOM.xlsx
+DocumentPath=Project Outputs for control-panel\BOM.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for controlPanel\Design Rule Check - main.html
+DocumentPath=Project Outputs for control-panel\Design Rule Check - main.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for controlPanel\main.DRR
+DocumentPath=Project Outputs for control-panel\main.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for controlPanel\main.EXTREP
+DocumentPath=Project Outputs for control-panel\main.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for controlPanel\main.GBL
+DocumentPath=Project Outputs for control-panel\main.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for controlPanel\main.GBS
+DocumentPath=Project Outputs for control-panel\main.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for controlPanel\main.GKO
+DocumentPath=Project Outputs for control-panel\main.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for controlPanel\main.GM1
+DocumentPath=Project Outputs for control-panel\main.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for controlPanel\main.GTL
+DocumentPath=Project Outputs for control-panel\main.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for controlPanel\main.GTO
+DocumentPath=Project Outputs for control-panel\main.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for controlPanel\main.GTS
+DocumentPath=Project Outputs for control-panel\main.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for controlPanel\main.LDP
+DocumentPath=Project Outputs for control-panel\main.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for controlPanel\main.REP
+DocumentPath=Project Outputs for control-panel\main.REP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for controlPanel\main.RUL
+DocumentPath=Project Outputs for control-panel\main.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for controlPanel\main.TXT
+DocumentPath=Project Outputs for control-panel\main.TXT
 DItemRevisionGUID=
 
 [Configuration1]
